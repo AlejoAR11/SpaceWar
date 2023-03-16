@@ -1,0 +1,13 @@
+C:\Users\Capo\source\repos\ñaam2\ñaam2\bin\Debug\ñaam2.exe.config
+C:\Users\Capo\source\repos\ñaam2\ñaam2\bin\Debug\ñaam2.exe
+C:\Users\Capo\source\repos\ñaam2\ñaam2\bin\Debug\ñaam2.pdb
+C:\Users\Capo\source\repos\ñaam2\ñaam2\bin\Debug\MaterialSkin.dll
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.csproj.AssemblyReference.cache
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.Form1.resources
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.Properties.Resources.resources
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.csproj.GenerateResource.cache
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.csproj.CoreCompileInputs.cache
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.csproj.CopyComplete
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.exe
+C:\Users\Capo\source\repos\ñaam2\ñaam2\obj\Debug\ñaam2.pdb
